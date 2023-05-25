@@ -1,3 +1,4 @@
+import { supabase } from '@/helpers/supabase'
 import './globals.css'
 import { Inter } from 'next/font/google'
 
